@@ -1,0 +1,64 @@
+Copilot:01 Claro, aqui estão os principais tópicos abordados na certificação AI-900:
+
+1. **Cargas de trabalho e considerações sobre Inteligência Artificial** (15–20%)
+2. **Princípios fundamentais do aprendizado de máquina no Azure** (20–25%)
+3. **Recursos das cargas de trabalho de pesquisa visual computacional no Azure** (15–20%)
+4. **Recursos das cargas de trabalho de Processamento de Linguagem Natural (NLP) no Azure** (15–20%)
+5. **Recursos das cargas de trabalho de IA generativa no Azure**⁶
+
+Para se preparar para a certificação, você pode seguir estas sugestões:
+
+- **Microsoft Learn**: A Microsoft oferece um guia de estudo para o exame AI-900, que inclui uma variedade de recursos de aprendizagem¹².
+- **Simulado AI-900 Microsoft Azure AI Fundamentals PT-BR AI900**: Este curso da Udemy oferece exercícios práticos e perguntas de avaliação para ajudá-lo a se preparar para o exame³.
+- **Workshop de Imersão para Certificação Azure AI-900**: Este workshop oferece uma bateria de exercícios para implementação no Azure e simulados com questões para aprofundamento e preparação para o exame⁴.
+
+Lembre-se de que a prática é a chave para o sucesso. Boa sorte nos seus estudos! 😊
+
+Origem: conversa com o Bing, 09/03/2024
+(1) Exame AI-900: Microsoft Azure AI Fundamentals - Certifications. https://bing.com/search?q=principais+t%c3%b3picos+certifica%c3%a7%c3%a3o+IA-900.
+(2) Exame AI-900: Microsoft Azure AI Fundamentals - Certifications. https://learn.microsoft.com/pt-br/credentials/certifications/exams/ai-900/.
+(3) Guia de estudo do Exame AI-900: Conceitos básicos da IA do Microsoft .... https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/ai-900.
+(4) Simulado AI-900 Microsoft Azure AI Fundamentals PT-BR AI900. https://www.udemy.com/course/simulado-ai-900-microsoft-azure-ai-fundamentals-2023-pt-br/.
+(5) Workshop de Imersão para Certificação Azure AI-900 - Sympla. https://www.sympla.com.br/evento-online/workshop-de-imersao-para-certificacao-azure-ai-900---1a-edicao/1200143.
+(6) [Azure] - Sequencia de posts para aprofundar os estudos da certificação .... https://medium.com/@hsouza.eduardo/sequencia-de-posts-contendo-questões-para-estudo-da-certificação-azure-ai-900-fundamentals-exam-a5ad86df6c64.
+(7) A certificação AI-900 a longo prazo! - dio.me. https://www.dio.me/articles/a-certificacao-ai-900-a-longo-prazo.
+(8) Desbravando o Mundo da Inteligência Artificial com Microsoft Azure .... https://www.dio.me/articles/desbravando-o-mundo-da-inteligencia-artificial-com-microsoft-azure-preparando-se-para-o-exame-de-certificacao-ai-900.
+
+Copilot:02 Vou tentar criar isso.(Ele criou 4 imgs, muito boas, mas não foi o solicitado)
+
+	 Copilot01 | Copilot02
+	 Copilot03 | Copilot04
+
+Copilot:03 Peço desculpas pela confusão anterior. Você gostaria de um texto descritivo para um design, e não um design em si. Vamos tentar novamente.
+
+	 Aqui está uma sugestão de texto para o seu design:
+
+	 "Apresentando o KiBrownie, uma doce homenagem à incrível obra de Akira Toriyama, Dragon Ball Z. Como fãs apaixonados do anime, nós da KiBrownie queremos expressar nossa gratidão e amor pelo universo que Toriyama criou. Nossos brownies são feitos com o mesmo cuidado e dedicação que Toriyama colocou em sua arte. Em memória do recente e triste falecimento de Akira Toriyama, cada brownie é uma sutil referência ao Dragon Ball Z, uma pequena forma de agradecimento por tudo que ele nos deu. Junte-se a nós na KiBrownie, onde cada mordida é uma viagem ao mundo de Dragon Ball Z."
+
+	 Espero que isso atenda às suas expectativas. Se precisar de mais ajustes, fique à vontade para me informar! 😊
+
+	 Copilot05 | Copilot06
+	 Copilot07 | Copilot08
+
+Copilot:04 Vou tentar criar isso.
+
+	 Copilot09 | Copilot10
+	 Copilot11 | Copilot12
+
+Copilot:05 Peço desculpas pela confusão anterior. Você gostaria de um texto descritivo para um design de logo, e não um design em si. Vamos tentar novamente.
+
+	 Aqui está uma sugestão de texto para o seu design de logo:
+
+	 "Para o logo da KiBrownie, imagine um design que capture a essência do anime Dragon Ball Z de uma maneira sutil e elegante. O 'Ki', uma referência ao anime, pode ser representado como uma aura suave e brilhante que envolve um delicioso brownie. Este brownie não é apenas um doce, mas um símbolo de nossa paixão pelo anime e nosso respeito pelo falecido Akira Toriyama. A perda de Toriyama é sentida profundamente por todos nós, e este logo é uma maneira de expressar nossa gratidão por sua contribuição inestimável para o mundo do anime. Cada detalhe do logo, desde a escolha das cores até a tipografia, é uma homenagem ao seu legado. Junte-se a nós na KiBrownie, onde celebramos o amor pelo anime com cada brownie que fazemos."
+
+	 Espero que isso atenda às suas expectativas. Se precisar de mais ajustes, fique à vontade para me informar! 😊
+
+	 Copilot13 | Copilot14
+	 Copilot15 | Copilot16
+
+Copilot:06 De nada! Se tiver mais alguma pergunta ou precisar de ajuda com algo mais, é só me avisar. Estou aqui para ajudar! 😊
+
+Copilot:07 Vou tentar criar isso.
+
+	 Copilot17 | Copilot18
+	 Copilot19 | Copilot20
